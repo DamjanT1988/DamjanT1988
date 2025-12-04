@@ -1,15 +1,15 @@
 ## About Me
 
-Hello! I'm **Damjan** — a fullstack & systems developer with a background in **software engineering, business economics, and service design (UX)**. I build and maintain scalable, human-centered applications where clean architecture, user experience, strong logic, and thoughtful design meet.
+Hello! I'm **Damjan**. Pleasent to meet you! I'm a fullstack & systems developer with a background in **software engineering, business economics, and service design (UX)**. I build and maintain scalable, human-centered applications and websites where clean architecture, user experience, strong logic, and thoughtful design meet.
 
-I also bring experience as a **business entrepreneur**, having built ERP systems, web platforms, intranet applications, and e-commerce solutions from the ground up. This gives me a unique perspective where **technology, business needs, and user   experience intersect to create real, measurable value**. Overal, I have created more than 20 websites and various forms of applications since 2014, in professional setting and as hobby projects to sharpen my skills.
+I also bring multi-year experience as a **business entrepreneur** and a **company owner**, having built and maintained ERP systems, web platforms, intranet applications, and e-commerce solutions from the ground up. This gives me a unique perspective where **technology, business needs, and user  experience intersect to create real, measurable value**. Overall, I have created more than 20 websites and various forms of applications since 2014, in professional settings, multi-disciplinary teams and as hobby projects to sharpen my skills.
 
 ---
 
 ## What I Do
 
 - Develop fullstack applications with robust **backend architecture**  
-- Design intuitive user experiences informed by **service design** principles  
+- Design intuitive **frontend user experiences** informed by **service design** principles  
 - Build with **React** (JavaScript/TypeScript), **C#.NET**, **Django** (Python), PHP (**Laravel**)  
 - Implement REST APIs, databases, containers (**Docker**), CI/CD, and cloud systems  
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
