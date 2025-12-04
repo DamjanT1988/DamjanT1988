@@ -17,7 +17,8 @@ I also bring multi-year experience as a **business entrepreneur** and a **compan
 - Customize themes and layout systems such as **Themify Ultra**  
 - Use AI to enhance productivity, analyze complexity, and improve development workflows  
 - Translate complex requirements into clear, valuable end-to-end solutions  
-- Bring a **business-aware perspective** from years of entrepreneurial work  
+- Bring a **business-aware perspective** from years of entrepreneurial work
+- **Document projects** by academic practice and preference, in detail and understandable
 
 ---
 
