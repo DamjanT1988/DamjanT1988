@@ -1,14 +1,8 @@
 ## About Me
 
-Hello! I'm **Damjan** — a fullstack & systems developer with a background in  
-**software engineering, business economics, and service design (UX)**.  
-I build and maintain scalable, human-centered applications where clean  
-architecture, user experience, strong logic, and thoughtful design meet.
+Hello! I'm **Damjan** — a fullstack & systems developer with a background in **software engineering, business economics, and service design (UX)**. I build and maintain scalable, human-centered applications where clean architecture, user experience, strong logic, and thoughtful design meet.
 
-I also bring experience as a **business entrepreneur**, having built ERP systems,  
-web platforms, intranet applications, and e-commerce solutions from the ground up.  
-This gives me a unique perspective where **technology, business needs, and user  
-experience intersect to create real, measurable value**.
+I also bring experience as a **business entrepreneur**, having built ERP systems, web platforms, intranet applications, and e-commerce solutions from the ground up. This gives me a unique perspective where **technology, business needs, and user   experience intersect to create real, measurable value**.
 
 ---
 
@@ -16,7 +10,7 @@ experience intersect to create real, measurable value**.
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive user experiences informed by **service design** principles  
-- Build with **React** (JavaScript/TypeScript), **C#.NET**, **Django** (Python), PHP/Laravel  
+- Build with **React** (JavaScript/TypeScript), **C#.NET**, **Django** (Python), PHP (**Laravel**)  
 - Implement REST APIs, databases, containers (**Docker**), CI/CD, and cloud systems  
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
 - Build and design **WordPress CMS** and **WooCommerce** e-commerce solutions  
@@ -27,33 +21,26 @@ experience intersect to create real, measurable value**.
 
 ---
 
-## Tech Stack
+## Tech Stack - What I Can Do
 
 ### Languages & Core Skills  
 `Python` `JavaScript` `TypeScript` `C#.NET` `PHP` `SQL` `NoSQL`
-
 ### Frameworks & Libraries  
 `Django` `React` `Vue` `Laravel` `.NET` `Express` `Node.js`
-
 ### Databases  
 `PostgreSQL` `MySQL` `MongoDB`
-
 ### Cloud, DevOps & Tools  
 `Azure` `Docker` `CI/CD` `Git` `API Design`
-
 ### Design & Product  
 `UX Design` `Service Design` `UI/UX Principles` `Figma`  
 `Information Architecture` `Research & Analysis`
-
 ### Testing  
 `Unit testing` `Integration testing` `E2E testing`  
 `Jest` `React Testing Library` `xUnit` `Cypress`  
 `Postman` `Automated test workflows`
-
 ### CMS & E-Commerce  
 `WordPress` `WooCommerce` `Theme customization` `Themify Ultra`  
 `CMS architecture` `Content workflows`
-
 ### AI & Productivity  
 `AI-assisted development` `Automation` `Prompt engineering` `LLM tooling`
 
@@ -67,11 +54,8 @@ experience intersect to create real, measurable value**.
 - **Clean engineering** — writing maintainable, purposeful, and testable code  
 - **AI-driven workflows** — boosting speed, clarity, and problem-solving precision  
 
-I aim to build systems that feel **simple on the surface** yet **powerful underneath**.
-
 ---
 
 ## Discussion?
 
-Curious about my process or thinking?  
-Feel free to explore my pinned projects below — and reach out to talk code, or business.
+Curious about my process or thinking? Feel free to explore my pinned projects below — and reach out to talk code, or business.
