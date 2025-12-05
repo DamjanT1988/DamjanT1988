@@ -2,7 +2,7 @@
 
 Hello! I'm **Damjan**. Pleasent to meet you! I'm a fullstack & systems developer with a background in **software engineering, business economics, and service design (UX)**. I build and maintain scalable, human-centered applications and websites where clean architecture, user experience, strong logic, and thoughtful design meet.
 
-I also bring multi-year experience as a **business entrepreneur** and a **company owner**, having built and maintained ERP systems, web platforms, intranet applications, and e-commerce solutions from the ground up. This gives me a unique perspective where **technology, business needs, and user  experience intersect to create real, measurable value**. Overall, I have created more than 20 websites and various forms of applications since 2014, in professional settings, multi-disciplinary teams and as hobby projects to sharpen my skills.
+I also bring multi-year experience as a **business entrepreneur** and a **company owner**, having built and maintained ERP systems, web platforms, intranet applications, and e-commerce solutions from the ground up. This gives me a unique perspective where **technology, business needs, and user  experience intersect to create real, measurable value**. Overall, I have created more than 20 websites and various forms of applications since 2014, in professional settings, multi-disciplinary teams and hobby projects to sharpen my skills.
 
 ---
 
@@ -10,13 +10,13 @@ I also bring multi-year experience as a **business entrepreneur** and a **compan
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
-- Build with **React** (JavaScript/TypeScript), **C#.NET**, **Django** (Python), PHP (**Laravel**)  
-- Implement REST APIs, databases, containers (**Docker**), CI/CD, and cloud systems  
+- Build with **React** (JavaScript/TypeScript), **C#.NET** (EF Core), **Django** (Python), PHP (**Laravel**)  
+- Implement REST APIs, databases, containers (**Docker**), CI/CD (GitHud Actions), and cloud systems (Azure)  
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
 - Build and design **WordPress CMS** and **WooCommerce** e-commerce solutions  
 - Customize themes and layout systems such as **Themify Ultra**  
 - Use AI to enhance productivity, analyze complexity, and improve development workflows  
-- Translate complex requirements into clear, valuable end-to-end solutions  
+- Translate complex entreprise requirements into clear, valuable techoology end-to-end solutions  
 - Bring a **business-aware perspective** from years of entrepreneurial and company work
 - **Document projects** by academic standard practice and preference, in detail and understandable
 
