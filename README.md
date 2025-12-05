@@ -17,15 +17,15 @@ I also bring multi-year experience as a **business entrepreneur** and a **compan
 - Customize themes and layout systems such as **Themify Ultra**  
 - Use AI to enhance productivity, analyze complexity, and improve development workflows  
 - Translate complex requirements into clear, valuable end-to-end solutions  
-- Bring a **business-aware perspective** from years of entrepreneurial work
-- **Document projects** by academic practice and preference, in detail and understandable
+- Bring a **business-aware perspective** from years of entrepreneurial and company work
+- **Document projects** by academic standard practice and preference, in detail and understandable
 
 ---
 
 ## Tech Stack - What I Am Familiar With
 
 ### Languages & Core Skills  
-`Python` `JavaScript` `TypeScript` `C#.NET` `PHP` `SQL` `NoSQL`
+`JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL`
 ### Frameworks & Libraries  
 `Django` `React` `Vue` `Laravel` `.NET` `Express` `Node.js`
 ### Databases  
@@ -53,7 +53,8 @@ I also bring multi-year experience as a **business entrepreneur** and a **compan
 - **Service design & UX** — creating smooth, intuitive flows that support user value  
 - **Business insight** — aligning technical decisions with real organizational goals  
 - **Clean engineering** — writing maintainable, purposeful, and testable code  
-- **AI-driven workflows** — boosting speed, clarity, and problem-solving precision  
+- **AI-driven workflows** — boosting speed, clarity, and problem-solving precision
+- **Servant leadership** — lead other team members by example and empowerment
 
 ---
 
