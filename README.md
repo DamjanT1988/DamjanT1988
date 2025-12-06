@@ -10,7 +10,7 @@ I also bring multi-year experience as a **business entrepreneur** and a **compan
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
-- Build with **React** (JavaScript/TypeScript), **C#.NET** (EF Core), **Django** (Python), PHP (**Laravel**)  
+- Build with **React** (JavaScript/TypeScript), **C#.NET** (EF Core), **Python** (Django)), PHP (**Laravel**)  
 - Implement REST APIs, databases, containers (**Docker**), CI/CD (GitHud Actions), and cloud systems (Azure)  
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
 - Build and design **WordPress CMS** and **WooCommerce** e-commerce solutions  
