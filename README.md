@@ -29,11 +29,11 @@ Right now, I am taking courses in both data engineering and machine learning to 
 ### Languages & Core Skills  
 `JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL`
 ### Frameworks & Libraries  
-`Django` `React` `Vue` `Laravel` `.NET` `Express` `Node.js`
+`Django` `React` `Vue` `Laravel` `.NET` `Express` `Node`
 ### Databases  
 `PostgreSQL` `MySQL` `MongoDB`
 ### Cloud, DevOps & Tools  
-`Azure` `Docker` `CI/CD` `Git` `API Design`
+`Azure` `Docker` `Kubernetes` `FastAPI` `CI/CD` `Git` `API Design`
 ### Design & Product  
 `UX Design` `Service Design` `UI/UX Principles` `Figma`  
 `Information Architecture` `Research & Analysis`
@@ -62,4 +62,4 @@ Right now, I am taking courses in both data engineering and machine learning to 
 
 ## Discussion?
 
-Curious about my process or thinking? Feel free to explore my pinned projects below — and reach out to talk code, or business.
+Curious about my process or thinking? Feel free to explore my pinned projects below, and reach out to talk code or business.
