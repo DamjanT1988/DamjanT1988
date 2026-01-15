@@ -17,7 +17,8 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
 - Build and design **WordPress CMS** and **WooCommerce** e-commerce solutions  
 - Customize themes and layout systems such as **Themify Ultra**  
-- Use AI to enhance productivity, analyze complexity, and improve development workflows  
+- Use AI to enhance productivity, analyze complexity, and improve development workflows
+- Learning Terraform for ETL data pipelines 
 - Translate complex entreprise requirements into clear, valuable techoology end-to-end solutions  
 - Bring a **business-aware perspective** from years of entrepreneurial and company work
 - **Document projects** by academic standard practice and preference, in detail and understandable
@@ -33,7 +34,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 ### Databases  
 `PostgreSQL` `MySQL` `MongoDB`
 ### Cloud, DevOps & Tools  
-`Azure` `Docker` `Kubernetes` `FastAPI` `CI/CD` `Git` `API Design`
+`Azure` `Docker` `Kubernetes` `FastAPI` `CI/CD` `Git` `API Design` `Terraform`
 ### Design & Product  
 `UX Design` `Service Design` `UI/UX Principles` `Figma`  
 `Information Architecture` `Research & Analysis`
