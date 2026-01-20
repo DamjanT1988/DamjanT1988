@@ -8,7 +8,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 
 ---
 
-## What I Do and Want to Do
+## What I Do and Goals
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
