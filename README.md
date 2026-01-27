@@ -57,7 +57,8 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - **Business insight** — aligning technical decisions with real organizational goals  
 - **Clean engineering** — writing maintainable, purposeful, and testable code  
 - **AI-driven workflows** — boosting speed, clarity, and problem-solving precision
-- **Servant leadership** — lead other team members by example and empowerment
+- **Servant leadership** — lead team members by service, assistance and example; empowerment
+- **Learning and sharing** — continously learning and sharing knowledge effectively
 
 ---
 
