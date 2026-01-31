@@ -12,14 +12,15 @@ Right now, I am taking courses in both data engineering and machine learning to 
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
-- Build with **React** (JavaScript/TypeScript), **C#.NET** (EF Core), **Python** (Django), PHP (**Laravel**)  
+- Build with **React** (JavaScript/TypeScript), **C#.NET/ASP.NET** (EF Core), **Python** (Django), PHP (**Laravel**)  
 - Implement REST APIs, databases, containers (**Docker** **Kubernetes**), CI/CD (GitHud Actions), and cloud systems (Azure)  
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
-- Build and design **WordPress CMS** and **WooCommerce** e-commerce solutions  
-- Customize themes and layout systems such as **Themify Ultra**  
-- Use AI to enhance productivity, analyze complexity, and improve development workflows
-- Learning Terraform and other DE tools for ETL data pipelines and data management and analysis 
-- Translate complex entreprise requirements into clear, valuable techoology end-to-end solutions  
+- Build and design **CMS (Wordpress)** and **WooCommerce** e-commerce solutions  
+- Customize themes and layout systems such as **Themify Ultra**
+- Using **Figma** to create designs and prototypes
+- Use **AI** to enhance productivity, analyze complexity, and improve development workflows
+- Learning **Terraform** and other DE tools for ETL data pipelines and data management and analysis 
+- Translate complex **entreprise requirements** into clear, valuable techoology end-to-end solutions  
 - Bring a **business-aware perspective** from years of hands-on entrepreneurial, project and company work
 - **Document projects** by academic standard practice and preference, in detail and understandable
 
