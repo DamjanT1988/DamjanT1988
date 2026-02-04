@@ -19,7 +19,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Customize themes and layout systems such as **Themify Ultra**
 - Using **Figma** to create designs and prototypes
 - Use **AI** to enhance productivity, analyze complexity, and improve development workflows
-- Learning **Terraform** and other DE tools for ETL data pipelines and data management and analysis 
+- Learning **Terraform** and other DE tools for ETL data pipelines, data management and analysis 
 - Translate complex **entreprise requirements** into clear, valuable techoology end-to-end solutions  
 - Bring a **business-aware perspective** from years of hands-on entrepreneurial, project and company work
 - **Document projects** by academic standard practice and preference, in detail and understandable
