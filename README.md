@@ -12,7 +12,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
-- Build with **JavaScript/TypeScript** (React), **C#.NET/ASP.NET** (EF Core, Blazor, Identity), **Python** (Django), **PHP** (Laravel)  
+- Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF, Blazor, Identity), **Python** (Django), **PHP** (Laravel)  
 - Implement REST APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (GitHud Actions), and cloud systems (Azure)  
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
 - Build and design **CMS (Wordpress)** and **WooCommerce** e-commerce solutions  
