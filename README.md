@@ -23,7 +23,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Translate complex **entreprise requirements** into clear, valuable techoology end-to-end solutions  
 - Bring a **business-aware perspective** from years of hands-on entrepreneurial, project and company work
 - **Document projects** by academic standard practice and preference, in detail and understandable
-- Do academic **research** and analysis; write extensive papers and documents
+- Conduct academic **research** and analysis; write extensive papers and documents
 
 ---
 
