@@ -30,9 +30,9 @@ Right now, I am taking courses in both data engineering and machine learning to 
 ## Tech Stack - What I Am Familiar With
 
 ### Languages & Core Skills  
-`JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL`
+`JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL` `Node`
 ### Frameworks & Libraries  
-`Django` `React` `Vue` `Laravel` `.NET` `Express` `Node`
+`Django` `React` `Vue` `Laravel` `.NET` `Express` `Blazor`
 ### Databases  
 `PostgreSQL` `MySQL` `MongoDB`
 ### Cloud, DevOps & Tools  
