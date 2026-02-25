@@ -36,13 +36,13 @@ Right now, I am taking courses in both data engineering and machine learning to 
 ### Databases  
 `PostgreSQL` `MySQL` `MongoDB`
 ### Cloud, DevOps & Tools  
-`Azure` `Docker` `Kubernetes` `FastAPI` `CI/CD` `Git` `API Design` `Terraform`
+`Azure` `Docker` `Kubernetes` `Agile` `CI/CD` `Git` `API Design` `Terraform`
 ### Design & Product  
-`UX Design` `Service Design` `UI/UX Principles` `Figma`  
-`Information Architecture` `Research & Analysis`
+`UX Design` `Service Design` `UI/UX Principles` `Figma` `Availability`  
+`Information Architecture` `Research & Analysis` `ETL Design`
 ### Testing  
-`Unit testing` `Integration testing` `E2E testing`  
-`Jest` `React Testing Library` `xUnit` `Cypress`  
+`Unit testing` `Integration testing` `E2E testing` `User testing` 
+`Jest` `React Testing Library` `xUnit` `Cypress` `A/B`  
 `Postman` `Automated test workflows`
 ### CMS & E-Commerce  
 `WordPress` `WooCommerce` `Theme customization` `Themify Ultra`  
