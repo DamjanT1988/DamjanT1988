@@ -41,8 +41,8 @@ Right now, I am taking courses in both data engineering and machine learning to 
 `UX Design` `Service Design` `UI/UX Principles` `Figma` `Availability`  
 `Information Architecture` `Research & Analysis` `ETL Design`
 ### Testing  
-`Unit testing` `Integration testing` `E2E testing` `User testing`
-`Jest` `React Testing Library` `xUnit` `Cypress` `A/B experimentation`  
+`Unit testing` `Integration testing` `E2E testing` `User testing` `Jest`  
+`React Testing Library` `xUnit` `Cypress` `A/B experimentation`  
 `Postman` `Automated test workflows`
 ### CMS & E-Commerce  
 `WordPress` `WooCommerce` `Theme customization` `Themify Ultra`  
