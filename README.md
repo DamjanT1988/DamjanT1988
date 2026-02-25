@@ -38,7 +38,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 ### Cloud, DevOps & Tools  
 `Azure` `Docker` `Kubernetes` `Agile` `CI/CD` `Git` `API Design` `Terraform`
 ### Design & Product  
-`UX Design` `Service Design` `UI/UX Principles` `Figma` `Availability`  
+`UX Design` `Service Design` `UI/UX Principles` `Figma` `Branding` `Availability`  
 `Information Architecture` `Research & Analysis` `ETL Design`
 ### Testing  
 `Unit testing` `Integration testing` `E2E testing` `User testing` `Jest`  
