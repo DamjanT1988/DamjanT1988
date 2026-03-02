@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm **Damjan**. Pleasant to meet you! I'm a fullstack and systems developer with a background in **software engineering, business economics, and service design (UX)**. I build and maintain scalable, human-centered applications and websites where clean architecture, enterprise needs, user experience, strong logic, and thoughtful design meet.
+Hello! I'm **Damjan**. Pleasant to meet you! I'm a fullstack and systems developer with a background in **software engineering, business economics, and service design (UX)**. With a few years of working as a developer, I like to build and maintain scalable, human-centered applications and websites where clean architecture, enterprise needs, user experience, strong logic, and thoughtful design meet.
 
 I also bring multi-year experience as a **business entrepreneur** and a **international trade and logistics company owner**, having built and maintained ERP systems, web platforms, intranet applications, and e-commerce solutions from the ground up. This gives me a unique perspective where **technology, business needs, and user  experience intersect to create real, measurable value**. Overall, I have created more than 20 websites and various forms of applications since 2014, in professional settings, multi-disciplinary teams and hobby projects to sharpen my skills.
 
