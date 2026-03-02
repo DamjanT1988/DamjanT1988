@@ -4,7 +4,7 @@ Hello! I'm **Damjan**. Pleasant to meet you! I'm a fullstack and systems develop
 
 I also bring multi-year experience as a **business entrepreneur** and a **international trade and logistics company owner**, having built and maintained ERP systems, web platforms, intranet applications, and e-commerce solutions from the ground up. This gives me a unique perspective where **technology, business needs, and user  experience intersect to create real, measurable value**. Overall, I have created more than 20 websites and various forms of applications since 2014, in professional settings, multi-disciplinary teams and hobby projects to sharpen my skills.
 
-Right now, I am taking courses in both data engineering and machine learning to develop a speciality which is demanded.
+Right now, I am taking courses in both data engineering and machine learning to develop a speciality which is demanded. I am always learning new ways to solve new problems.
 
 ---
 
