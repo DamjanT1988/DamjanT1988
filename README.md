@@ -29,7 +29,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Support other team members and share knowledge actively
 - Use **AI** to enhance productivity, analyze complexity, and improve development workflows
 - Develop and use LLM models **ChatGPT, Claude, Gemini** and its various APIs and models
-- Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines and use custom open source models by pods, **ComfyUI** and others
+- Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines with custom open source models by GPU pods and **ComfyUI**
 - Use **PyTorch** in **COLABS** for ML pipelines
 
 ---
