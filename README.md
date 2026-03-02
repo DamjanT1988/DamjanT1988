@@ -21,6 +21,8 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Using **Figma** to create designs and prototypes
 - Work agile with **Kanban and Scrum** + JIRA
 - Use **AI** to enhance productivity, analyze complexity, and improve development workflows
+- Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines and use custom open source models by pods, **ComfyUI** and others
+- Code with **Visual Studio** and **VS2022**, **Cursor** and **GitHub/GitLab** as well as use models **ChatGPT, Claude, Gemini** and its APIs
 - Learning **Terraform** and other DE tools for ETL data pipelines, data management and analysis 
 - Translate complex **entreprise requirements** into clear, valuable techoology end-to-end solutions  
 - Bring a **business-aware perspective** from years of hands-on entrepreneurial, project and company work
