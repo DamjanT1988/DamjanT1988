@@ -31,26 +31,28 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Develop and use LLM models **ChatGPT, Claude, Gemini** and its various APIs and models
 - Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines with custom open source models by GPU pods and **ComfyUI**
 - Use **PyTorch** in **COLABS** for ML pipelines
+- Basic **Linux** usage
 
 ---
 
 ## Tech Stack - What I Am Familiar With
 
 ### Languages & Core Skills  
-`JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL` `Node`
+`JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL` `Node` `AI`
 ### Frameworks & Libraries  
 `Django` `React` `Vue` `Laravel` `.NET` `Express` `Blazor`
 ### Databases  
-`PostgreSQL` `MySQL` `MongoDB`
+`PostgreSQL` `MySQL` `MongoDB` `SQL Server`
 ### Cloud, DevOps & Tools  
-`Azure` `Docker` `Kubernetes` `Agile` `CI/CD` `Git` `API Design` `Terraform`
+`Azure` `Docker` `Kubernetes` `Kanban` `GitHub Actions` `Git` `JIRA`  
+`Visual Studio` `API Design` `Terraform`
 ### Design & Product  
 `UX Design` `Service Design` `UI/UX Principles` `Figma` `Branding` `Availability`  
-`Information Architecture` `Research & Analysis` `ETL Design`
+`Information Architecture` `Research & Analysis` `ETL Design` `WCAG`
 ### Testing  
 `Unit testing` `Integration testing` `E2E testing` `User testing` `Jest`  
-`React Testing Library` `xUnit` `Cypress` `A/B experimentation`  
-`Postman` `Automated test workflows`
+`React Testing Library` `xUnit` `PyTest` `PlayWright` `Cypress` `A/B experimentation`  
+`Postman` `Uasbility testing` `Automated test workflows`
 ### CMS & E-Commerce  
 `WordPress` `WooCommerce` `Theme customization` `Themify Ultra`  
 `CMS architecture` `Content workflows`
