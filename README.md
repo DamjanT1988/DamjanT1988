@@ -31,6 +31,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Develop and use LLM models **ChatGPT, Claude, Gemini** and its various APIs and models
 - Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines with custom open source models by GPU pods and **ComfyUI**
 - Use **PyTorch** in **COLABS** for ML pipelines
+- Rapid **prototyping** of MVP digital products and production-ready applications using **agents**
 - Basic **Linux** usage
 
 ---
