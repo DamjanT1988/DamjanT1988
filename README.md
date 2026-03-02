@@ -15,20 +15,22 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF, Blazor, Identity), **Python** (Django), **PHP** (Laravel)  
 - Implement REST APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (GitHud Actions), and cloud systems (Azure)
 - Mainly use the powerful **PostgreSQL**; also familiar with **MySQL** and even used **NoSQL** (MongoDB) and **SQL Server**   
+- Code with IDEs **Visual Studio** and **Visual Studio 2022**, **Cursor** and **GitHub/GitLab** for version and collaboration
+- Work agile with **Kanban and Scrum** + JIRA
 - Conduct UX research, user testing, A/B experimentation, and **unit/integration/E2E** testing  
 - Build and design **CMS (Wordpress)** and **WooCommerce** e-commerce solutions  
 - Customize themes and layout systems such as **Themify Ultra**
 - Using **Figma** to create designs and prototypes
-- Work agile with **Kanban and Scrum** + JIRA
-- Use **AI** to enhance productivity, analyze complexity, and improve development workflows
-- Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines and use custom open source models by pods, **ComfyUI** and others
-- Code with **Visual Studio** and **VS2022**, **Cursor** and **GitHub/GitLab** as well as use models **ChatGPT, Claude, Gemini** and its APIs
 - Learning **Terraform** and other DE tools for ETL data pipelines, data management and analysis 
 - Translate complex **entreprise requirements** into clear, valuable techoology end-to-end solutions  
 - Bring a **business-aware perspective** from years of hands-on entrepreneurial, project and company work
 - **Document projects** by academic standard practice and preference, in detail and understandable
 - Conduct academic **research** and analysis; write extensive papers and documents
 - Support other team members and share knowledge actively
+- Use **AI** to enhance productivity, analyze complexity, and improve development workflows
+- Develop and use LLM models **ChatGPT, Claude, Gemini** and its various APIs and models
+- Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines and use custom open source models by pods, **ComfyUI** and others
+- Use **PyTorch** in **COLABS** for ML pipelines
 
 ---
 
