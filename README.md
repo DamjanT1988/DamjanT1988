@@ -58,7 +58,8 @@ Right now, I am taking courses in both data engineering and machine learning to 
 `WordPress` `WooCommerce` `Theme customization` `Themify Ultra`  
 `CMS architecture` `Content workflows`
 ### AI & Productivity  
-`AI-assisted development` `Automation` `Prompt engineering` `LLM tooling`
+`AI-assisted development` `Automation` `Prompt engineering` `Jest`  
+`ChatGPY` `Claude` `Cursor` `ML pipeline` `LLM tooling` 
 
 ---
 
