@@ -13,7 +13,7 @@ Right now, I am taking courses in both data engineering and machine learning to 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
 - Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF, Blazor, Identity), **Python** (Django), **PHP** (Laravel)  
-- Implement REST APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (GitHud Actions), and cloud systems (Azure)
+- Implement REST APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (GitHub Actions), and cloud systems (Azure)
 - Mainly use the powerful **PostgreSQL**; also familiar with **MySQL** and even used **NoSQL** (MongoDB) and **SQL Server**   
 - Code with IDEs **Visual Studio** and **Visual Studio 2022**, **Cursor** and **GitHub/GitLab** for version and collaboration
 - Work agile with **Kanban and Scrum** + JIRA
