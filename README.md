@@ -28,7 +28,7 @@ For 2026, I am taking courses in data engineering. I am always learning new ways
 - Conduct academic **research** and **analysis**; write extensive papers and documents
 - Support other team members and share knowledge actively
 - Use **AI** to enhance productivity, analyze complexity, and improve development workflows
-- Develop and use LLM models **ChatGPT, Claude, Gemini** and its various APIs and models
+- Develop in LLMs **ChatGPT, Claude, Gemini** and its various APIs and models
 - Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines with custom open source models by GPU pods and **ComfyUI**
 - Use **PyTorch** in **COLABS** for ML pipelines
 - Rapid **prototyping** of MVP digital products and production-ready applications using **agents**
