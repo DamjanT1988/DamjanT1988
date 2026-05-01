@@ -32,34 +32,34 @@ For 2026, I am taking courses in data engineering. I am always learning new ways
 - Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines with custom open source models by GPU pods and **ComfyUI**
 - Use **PyTorch** in **COLABS** for ML pipelines
 - Rapid **prototyping** of MVP digital products and production-ready applications using **agents**
-- Basic **Linux** usage
+- Basic **Linux** usage (WSL, Ubuntu)
 
 ---
 
 ## Tech Stack - What I Am Familiar With
 
 ### Languages & Core Skills  
-`JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL` `Node` `AI`
+`JavaScript` `TypeScript` `Python` `C#` `PHP` `SQL` `Node` `Bash` `AI`
 ### Frameworks & Libraries  
 `Django` `React` `Vue` `Laravel` `.NET` `Express` `Blazor`
 ### Databases  
 `PostgreSQL` `MySQL` `MongoDB` `SQL Server`
 ### Cloud, DevOps & Tools  
-`Azure` `Docker` `Kubernetes` `Kanban` `GitHub Actions` `Git` `JIRA`  
-`Visual Studio` `API Design` `Terraform`
+`Azure` `Docker` `Kubernetes` `Kanban` `Scrum` `GitHub Actions` `Git` `JIRA`  
+`Visual Studio` `Terraform` `Confluence` `GitHub/GitLab` `ETL`
 ### Design & Product  
 `UX Design` `Service Design` `UI/UX Principles` `Figma` `Branding` `Availability`  
-`Information Architecture` `Research & Analysis` `ETL Design` `WCAG`
+`Information architecture` `Research & Analysis` `WCAG`
 ### Testing  
 `Unit testing` `Integration testing` `E2E testing` `User testing` `Jest`  
 `React Testing Library` `xUnit` `PyTest` `PlayWright` `Cypress` `A/B experimentation`  
-`Postman` `Uasbility testing` `Automated test workflows`
+`Postman` `Usability testing` `Automated test workflows`
 ### CMS & E-Commerce  
 `WordPress` `WooCommerce` `Theme customization` `Themify Ultra`  
-`CMS architecture` `Content workflows`
+`CMS design` `Content workflow`
 ### AI & Productivity  
-`AI-assisted development` `Automation` `Prompt engineering` `Jest`  
-`ChatGPY` `Claude` `Cursor` `ML pipeline` `LLM tooling` 
+`AI-assisted development` `Automation` `Prompt engineering`  
+`ChatGPY` `Claude` `Cursor` `LLM tooling` `KIRO-cli`
 
 ---
 
