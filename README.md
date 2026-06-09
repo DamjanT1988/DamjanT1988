@@ -12,8 +12,8 @@ For 2026, I am taking courses in data engineering. I am always learning new ways
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
-- Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF, Blazor, Identity), **Python** (Django), **PHP** (Laravel)  
-- Implement **REST** APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (**GitHub Actions**), and cloud systems (**Azure**)
+- Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF, Blazor, Identity), **Python** (Django), **PHP** (Laravel), HUGO  
+- Implement **REST** APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (**GitHub Actions**/Jenkins), and cloud systems (**Azure**)
 - Mainly use the powerful **PostgreSQL**; also familiar with **MySQL** and even used **NoSQL** (MongoDB) and **SQL Server**   
 - Code with IDEs **Visual Studio Code** and **Visual Studio 2022**, **Cursor** and **GitHub/GitLab** + Gerrit for version collaboration
 - Work agile with **Kanban and Scrum** + JIRA and Confluence
@@ -28,7 +28,7 @@ For 2026, I am taking courses in data engineering. I am always learning new ways
 - Conduct academic **research** and **analysis**; write extensive papers and documents
 - Support other team members and share knowledge actively
 - Use **AI** to enhance productivity, analyze complexity, and improve development workflows
-- Develop in LLMs **ChatGPT, Claude, Gemini** and its various APIs and models
+- Develop in LLMs **ChatGPT, Claude, Gemini, Amazon Q (KIRO)** and its various APIs and models
 - Use AI **agents**, **agentic AI**, **RAG** and build custom ML/LLM pipelines with custom open source models by GPU pods and **ComfyUI**
 - Use **PyTorch** in **COLABS** for ML pipelines
 - Rapid **prototyping** of MVP digital products and production-ready applications using **agents**
