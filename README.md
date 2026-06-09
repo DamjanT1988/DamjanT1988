@@ -15,8 +15,8 @@ For 2026, I am taking courses in data engineering. I am always learning new ways
 - Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF, Blazor, Identity), **Python** (Django), **PHP** (Laravel)  
 - Implement **REST** APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (**GitHub Actions**), and cloud systems (**Azure**)
 - Mainly use the powerful **PostgreSQL**; also familiar with **MySQL** and even used **NoSQL** (MongoDB) and **SQL Server**   
-- Code with IDEs **Visual Studio Code** and **Visual Studio 2022**, **Cursor** and **GitHub/GitLab** for version and collaboration
-- Work agile with **Kanban and Scrum** + JIRA
+- Code with IDEs **Visual Studio Code** and **Visual Studio 2022**, **Cursor** and **GitHub/GitLab** + Gerrit for version collaboration
+- Work agile with **Kanban and Scrum** + JIRA and Confluence
 - Conduct **UX research**, user testing, A/B experimentation, and **unit/integration/E2E** testing  
 - Build and design **CMS (Wordpress)** and **WooCommerce** e-commerce solutions  
 - Customize themes and layout systems such as **Themify Ultra**
