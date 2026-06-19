@@ -8,11 +8,11 @@ For 2026, I am taking courses in data engineering. I am always learning new ways
 
 ---
 
-## What I Do and My Goals - What I offer
+## What I Do and My Goals - What I Offer
 
 - Develop fullstack applications with robust **backend architecture**  
 - Design intuitive **frontend user experiences** informed by **service design** principles  
-- Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF, Blazor, Identity), **Python** (Django), **PHP** (Laravel), HUGO  
+- Build with **JavaScript/TypeScript** (React, Node), **C#.NET/ASP.NET** (EF Core, Blazor, Identity), **Python** (Django), **PHP** (Laravel)  
 - Implement **REST** APIs, databases, containers (**Docker**, **Kubernetes**), CI/CD (**GitHub Actions**/Jenkins), and cloud systems (**Azure**)
 - Mainly use the powerful **PostgreSQL**; also familiar with **MySQL** and even used **NoSQL** (MongoDB) and **SQL Server**   
 - Code with IDEs **Visual Studio Code** and **Visual Studio 2022**, **Cursor** and **GitHub/GitLab** + Gerrit for version collaboration
